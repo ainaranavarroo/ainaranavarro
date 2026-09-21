@@ -6,4 +6,6 @@ Hola! Soy **Ainara Navarro**
 - Bash
 
 Visítame en:
-[Cuatrovientos].(https://cuatrovientos.org)
+[Cuatrovientos].(https://cuatrovientos.org/)
+
+
